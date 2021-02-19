@@ -1,0 +1,4 @@
+1. Find the root of the equations.
+(i) x^3-18 = 0
+(ii) x^3-4x-9 = 0
+(iii) 2x-3sinx-5 = 0
